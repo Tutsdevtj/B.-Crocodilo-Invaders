@@ -1,6 +1,6 @@
 # 🐊 Bombardiro Crocodilo Invaders
 
-![Gameplay Screenshot](print.png)
+![Gameplay Screenshot](print.mp4)
 
 **Bombardiro Crocodilo Invaders** é um jogo arcade 2D em estilo pixel art onde você controla o bravo **B. Crocodilo**, um piloto crocodilo em combate aéreo contra invasores alienígenas. Com belos gráficos retro e uma jogabilidade intensa, o jogo oferece uma experiência cheia de ação, estratégia e efeitos visuais e sonoros marcantes.
 
